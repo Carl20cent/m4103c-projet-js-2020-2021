@@ -1,5 +1,5 @@
 /* Importation de la police Roboto */
-@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 /* Définition des principales couleurs */
 :root {
@@ -15,7 +15,7 @@
 
 body {
 	background-color: var(--background);
-	font: 14pt Roboto;
+	font: 14pt Roboto, Arial, sans-serif;
 	margin: 0;
 	padding: 0;
 	width: 90%;
